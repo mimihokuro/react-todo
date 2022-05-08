@@ -17,14 +17,14 @@ button:hover {
   cursor: pointer;
 }
 
-.input-area {
+/* .input-area {
   width: 400px;
   height: 30px;
   margin: 8px;
   padding: 8px;
   background-color: #c1ffff;
   border-radius: 8px;
-}
+} */
 
 .incomplete-area {
   width: 400px;
